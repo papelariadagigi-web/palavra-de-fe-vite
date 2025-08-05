@@ -1,0 +1,32 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #f7f4ed;
+  text-align: center;
+  margin: 0;
+  padding: 2rem;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #d81e5b;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+button:hover {
+  background-color: #b3194b;
+}
+
+.app-container {
+  max-width: 500px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.05);
+}
